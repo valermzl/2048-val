@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="mycolor">#51D0C6  </color>
+    <color name="lila">#BF82C4  </color>
+    #BB7CE9
+    <color name="MORADO">#BB7CE9</color>
+
+</resources>
